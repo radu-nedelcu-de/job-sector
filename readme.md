@@ -1,3 +1,5 @@
+Work for: 
+
 Data Scientist - Programming Task
 
 There is a need to improve the user experience of recruiters using the website. Currently there are many actions a recruiter must do to post a job on to the reed.co.uk site.
@@ -12,3 +14,7 @@ You will be provided with a CSV file containing a raw collection of job titles, 
 
 Please submit your code for us to run it locally including any instructions or output where necessary.
 As an optional task, we would like to see if there are any other values that you can infer from the job data provided.
+
+Notebooks:
+
+[Notebook used to experiment](/research/Job%20Category%20Classifier.ipynb) and the [Extracting other Data Notebook](/research/Extracting%20other%20Data.ipynb)
